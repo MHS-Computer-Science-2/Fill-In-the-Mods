@@ -27,7 +27,7 @@ int main()
     // 3. Add and if/else statement to determine whether a number entered 
     //    by the user is a multiple of both 3 and 5
     int c;
-    cout << "3. Enter a number to see if it is a multiple of 3 or 5: ";
+    cout << "3. Enter a number to see if it is a multiple of 3 and 5: ";
     cin >> c;
     /* add your if/else here */
 
