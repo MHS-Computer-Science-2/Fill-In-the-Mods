@@ -37,17 +37,17 @@ int main()
    
 
     // 4. Add and if/else statement to determine whether a number entered 
-    //    by the user is within 2 of a multiple of 10
-    //    For example: 8, 9, 10, 11, 12 are within 2 of a multiple of 10
-    //                 but 7 and 13 are more than two away from a multiple of 10
+    //    by the user is within 1 of a multiple of 10
+    //    For example:  19, 20, 21 are within 1 of a multiple of 10
+    //                 but 18 and 22 are more than 1 away from a multiple of 10
     int d;
-    cout << "4. Enter a number to see if it is within 2 of a multiple of 10: ";
+    cout << "4. Enter a number to see if it is within 1 of a multiple of 10: ";
     cin >> d;
     /* add your if/else here */
 
-    cout << d << " is within 2 of a multiple of 10" << endl << endl;
+    cout << d << " is within 1 of a multiple of 10" << endl << endl;
 
-    cout << d << " is NOT within 2 of a multiple of 10" << endl << endl;
+    cout << d << " is NOT within 1 of a multiple of 10" << endl << endl;
 
 
 
