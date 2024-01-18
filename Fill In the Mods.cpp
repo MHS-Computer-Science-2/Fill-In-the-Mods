@@ -36,7 +36,7 @@ int main()
     cout << c << " is NOT a multiple of 3 and 5" << endl << endl;
 
     //***********************************************************************************
-    // 4. The following code contains a loop that displays all the number from 1 to 100.
+    // 4. The following code contains a loop that displays integers from 1 to 100.
     //    Add an if statement to the loop so that only the multiples of 10 are displayed
     int number = 1;
     while(number <= 100){
